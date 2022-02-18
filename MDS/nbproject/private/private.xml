@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/model/Student.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/dal/RectDBContext.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/dal/DBContext.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/controller/LoginController.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/dal/StudentDBContext.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/dal/DeptDBContext.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/web/view/rect.jsp</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/controller/student/SearchController.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/web/index.html</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/model/Department.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/controller/student/InsertController.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/src/java/dal/AccountDBContext.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/web/view/student/search.jsp</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/web/view/login.jsp</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/PRJ301/MDS/web/view/student/insert.jsp</file>
+        </group>
+    </open-files>
+</project-private>
